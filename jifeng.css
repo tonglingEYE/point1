@@ -53,7 +53,9 @@ strong,
 th,
 i {
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
+font-size:30px;
+
 }
 table caption {
   margin-left: -1px;
@@ -100,11 +102,22 @@ body {
     justify-content:space-around;
     align-items: center;
 }
-.theme img{
-        float:left;
-      width:300px;
-       height:60px;
+.theme p{
+       float:left;
+      width:100px;
+       height:50px;
      
+}
+.theme b{
+     height:50px;
+width:200px;   
+}
+.theme i{
+display:block;
+              width:200px;
+               height:50px;
+	font-size：40px;
+             line-height: 50px;
 }
 
 .h-l{
